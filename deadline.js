@@ -93,3 +93,4 @@ cartshow.addEventListener("click",function(){
 cartbtn.addEventListener("click",function(){
     document.querySelector(".cart").style.right="-100%";
 })
+// Tôi giỏi vkl
